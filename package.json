@@ -1,0 +1,12 @@
+{
+  "name": "npm-cli-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Gummibeer/npm-cli-test.git",
+  "author": "Tom Witkowski <dev.gummibeer@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "bin": {
+    "npm-cli-test-gummibeer": "./bin/npm-cli-test"
+  }
+}
